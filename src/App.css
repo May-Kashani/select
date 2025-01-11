@@ -24,11 +24,11 @@
 
 .selected-items {
   display: flex;
-  flex-wrap: nowrap;  /* Prevent wrapping */
-  overflow: hidden;   /* Hide overflowing items */
+  flex-wrap: nowrap;
+  overflow: hidden;
   align-items: center;
   width: 100%;
-  gap: 5px; /* Adjust the space between chips */
+  gap: 5px;
 }
 
 .chip {
@@ -165,9 +165,6 @@
   background-color: #0056b3;
 }
 
-
-
-/* styles.css */
 .form-container {
   max-width: 400px;
   margin: 20px auto;
